@@ -2,11 +2,13 @@
 
 --------------------------------------------------------------------------------
 ## GENRAL INFORMATION
-RPA Process Name: ==Insert Text Here==
-RPA BOT Vendor: ==Insert Text Here==
+###RPA Process Name
+ ==Insert Text Here==
+
+###RPA BOT Vendor:
+Automation Anywhere / Blueprism / UI Path
 --------------------------------------------------------------------------------
 ## RPA PROCESS INFORMATION
-
 ### Systems RPA is Interacting with
 ==Insert Text Here==
 
@@ -18,7 +20,6 @@ RPA BOT Vendor: ==Insert Text Here==
 
 --------------------------------------------------------------------------------
 ## PRE-REQUISITE INFORMATION REQUIRED
-
 ### General Notes
 ==Insert Text Here==
 
