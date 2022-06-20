@@ -3,9 +3,9 @@
 --------------------------------------------------------------------------------
 ## GENRAL INFORMATION
 ###RPA Process Name
- ==Insert Text Here==
+==Insert Text Here==
 
-###RPA BOT Vendor:
+###RPA BOT Vendor
 Automation Anywhere / Blueprism / UI Path
 --------------------------------------------------------------------------------
 ## RPA PROCESS INFORMATION
