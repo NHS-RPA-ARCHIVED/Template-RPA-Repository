@@ -35,6 +35,6 @@
 | |  |
 |  |  |
 --------------------------------------------------------------------------------
-## EXTENDED SUPPORT INFOPRMATION
+## EXTENDED SUPPORT INFOMATION
 
 ==Insert Text Here==
