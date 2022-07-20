@@ -1,3 +1,11 @@
+<!-- Metadata Tags -->
+
+[![OpenGov License](https://img.shields.io/badge/License-OpenGov-lightgray.svg)](LICENSE)
+![RPA Vendor](https://img.shields.io/badge/RPA_Vendor-Automation_Anywhere-blue.svg)
+![Department](https://img.shields.io/badge/Department-HR-lighgreen.svg)
+![process Type](https://img.shields.io/badge/Process_Type-ESR-lighgreen.svg)
+<!-- Add in additional Tags as appropriate -->
+
 # NHS ROBOTIC PROCESS AUTOMATION
 
 --------------------------------------------------------------------------------
